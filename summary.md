@@ -1,10 +1,4 @@
-# Restaurant Sales Dashboard (PS 82) – Project Summary
-
-**University:** Rungta International Skills University
-**Program:** B.Tech Computer Science and Engineering
-**Language / Libraries:** Python 3, Pandas, Matplotlib
-
----
+# Restaurant Sales Dashboard – Project Summary
 
 ## 1. Problem Overview
 
