@@ -1,4 +1,4 @@
-# Restaurant Sales Dashboard (PS 82)
+# Restaurant Sales Dashboard
 
 A menu-driven Python program that reads a restaurant's sales data from a CSV file, cleans it, and shows sales summaries and charts using **Pandas** and **Matplotlib**.
 
